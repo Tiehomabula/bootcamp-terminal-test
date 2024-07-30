@@ -27,7 +27,7 @@
   ],
   "scripts": {
     "dev": "",
-    "test": "mocha"
+    "test": "mocha tests"
   },
   "dependencies": {
 
